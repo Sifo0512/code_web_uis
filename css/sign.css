@@ -1,0 +1,156 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    display: flex;
+    background-color: #282A35;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#sign-up-home{
+    padding: 0 90px 60px 90px;
+    margin-top:120px;
+}
+
+#sign-up-div{
+    width: 100%;
+    padding:50px 60px 0px 250px;
+}
+
+.option-home{
+    background-color: #04AA6D;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#sign-botton{
+    margin-top: 80px;
+    color: white;
+}
+
+#sign-botton h1{
+    font-size: 40px;
+}
+#sign-botton h3{
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+ul {
+    list-style: none;
+    padding-left: 1em;
+  }
+  
+li::before {
+    content: "✅";
+    display: inline-block;
+    margin-left: -1.5em;
+    width: 1.5em;
+}
+
+#portal-sign{
+    padding-top: 20px;
+    background-color: rgb(250, 250, 250);
+    border-radius: 10px;
+    margin-top:40px;
+    padding-bottom: 40px;
+}
+
+#x-home{
+    padding-left: 490px;
+    font-size: 25px;
+    text-decoration: none;
+    color:black;
+}
+
+.h1-sign{
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+
+.p-sign{
+    padding-left: 235px;
+}
+
+.option-signg{
+    background-color: white;
+    padding: 8px 46px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 1px rgb(154, 154, 154);
+    
+}
+.option-signf{
+    background-color: white;
+    padding: 8px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 1px rgb(154, 154, 154);
+}
+.option-signgit{
+    background-color: white;
+    padding: 8px 48px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 1px rgb(154, 154, 154);
+}
+.option-signfei{
+    background-color: white;
+    padding: 8px 56px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    border: solid 1px rgb(154, 154, 154);
+}
+.option-sign-up{
+    background-color: #04AA6D;
+    padding: 8px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 25px;
+    color:white;
+    margin-left: 200px;
+}
+
+.input-sign{
+    border-radius: 5px;
+    border: solid 0.4px rgb(220, 209, 209);
+    padding: 12px 20px;
+    width: 80%;
+    margin-bottom: 3px;
+}
+
+#options-1{
+    display: inline-block;
+    justify-content: space-around;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+#options-2{
+    display: inline-block;
+    justify-content: space-around;
+    padding-left: 80px;
+    padding-top: 30px;
+}
+
+#inputs{
+    display: inline-block;
+    justify-content: space-around;
+    padding-left: 80px;
+    margin-bottom: 40px;
+}
+
+#or{
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    color:#8f9198;
+}
